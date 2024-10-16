@@ -7,4 +7,4 @@ void f() {
     cout << "Called function from header1.h" << endl;
 }
 
-#endif // HEADER2_H
+#endif // HEADER1_H
